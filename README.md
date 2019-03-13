@@ -1,5 +1,4 @@
 # MASM
 the masm test file(.asm)
 
-filename	introduce
-123
+time      option    filename    	introduce
